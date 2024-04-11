@@ -1,0 +1,30 @@
+.seccion_1{
+    max-width: 39.5rem;
+    height: 20rem;
+    margin: auto;
+    background-color: rgb(245, 212, 242);
+}
+.seccion_1 h1{
+
+    position: absolute;
+    top: 100px;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-top:  5rem;
+
+}
+ .parr{
+    
+    position: absolute;
+    top: 140px;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-top:  5rem;
+    padding: 2rem 3rem;
+ }
+ .btn2{
+    background-color: rgb(195, 47, 231);
+    padding: 4px 10px; 
+    float: left;
+    border-radius: 1rem;
+ }
